@@ -46,4 +46,8 @@ public:
     void set_values(int, int);
 };
 ```
+#### Instantiate an object of a class
+```
+    Point center;
+```
 
