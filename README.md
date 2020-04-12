@@ -1,8 +1,17 @@
 # Brief Reference CPP
 
-**Brief Reference CPP** is concise reference of the C++ programming languge. 
+**Brief Reference CPP** is a concise reference of the C++ programming languge. 
 
 ---
+
+### Variables
+
+#### Pointer declaration
+```
+    int * ptrToInt;
+```
+
+### Classes
 
 #### Class definition
 ```
@@ -15,3 +24,4 @@ public:
     void set_values(int, int);
 };
 ```
+
