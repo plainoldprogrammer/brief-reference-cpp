@@ -21,6 +21,13 @@
 
 ### Variables
 
+#### Primitive data types declaration
+```
+    int x = 2020;
+    float pi = 3.1416f;
+    bool continue = true;
+```
+
 #### Pointer declaration
 ```
     int * ptrToInt;
