@@ -33,6 +33,11 @@
     int * ptrToInt;
 ```
 
+#### Pointing to a variable
+```
+    int * ptrToInt = &x;
+```
+
 ### Classes
 
 #### Class definition
