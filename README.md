@@ -38,6 +38,11 @@
     int * ptrToInt = &x;
 ```
 
+#### Pointing to nothing
+```
+    int * ptr = NULL;
+```
+
 ### Classes
 
 #### Class definition
