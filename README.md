@@ -19,6 +19,13 @@
  */
 ```
 
+### Macros
+
+#### Macro definition
+```
+#define PI 3.1416
+```
+
 ### Variables
 
 #### Primitive data types declaration
