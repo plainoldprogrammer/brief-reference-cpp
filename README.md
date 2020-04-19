@@ -50,6 +50,13 @@
     int * ptr = NULL;
 ```
 
+### Methods
+
+#### Call to a static mathod
+```
+    Utilities::date();
+```
+
 ### Classes
 
 #### Class definition
