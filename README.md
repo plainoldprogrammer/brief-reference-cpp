@@ -30,9 +30,9 @@
 
 #### Primitive data types declaration
 ```
-    int x = 2020;
-    float pi = 3.1416f;
-    bool continue = true;
+int x = 2020;
+float pi = 3.1416f;
+bool continue = true;
 ```
 
 #### Pointer declaration
@@ -42,19 +42,19 @@
 
 #### Pointing to a variable
 ```
-    int * ptrToInt = &x;
+int * ptrToInt = &x;
 ```
 
 #### Pointing to nothing
 ```
-    int * ptr = NULL;
+int * ptr = NULL;
 ```
 
 ### Methods
 
 #### Call to a static mathod
 ```
-    Utilities::date();
+Utilities::date();
 ```
 
 ### Classes
