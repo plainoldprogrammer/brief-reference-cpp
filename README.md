@@ -37,7 +37,7 @@ bool continue = true;
 
 #### Pointer declaration
 ```
-    int * ptrToInt;
+int * ptrToInt;
 ```
 
 #### Pointing to a variable
