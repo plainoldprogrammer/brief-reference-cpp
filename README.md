@@ -26,6 +26,13 @@
 #define PI 3.1416
 ```
 
+### Namespaces
+
+#### Using a namespace
+```
+using namespace std;
+```
+
 ### Variables
 
 #### Primitive data types declaration
@@ -70,8 +77,8 @@ public:
     void set_values(int, int);
 };
 ```
+
 #### Instantiate an object of a class
 ```
     Point center;
 ```
-
