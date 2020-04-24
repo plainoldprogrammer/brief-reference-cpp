@@ -26,6 +26,11 @@
 #include <filename>
 ```
 
+#### Include a source file from the current directory
+```
+#include "filename"
+```
+
 ### Macros
 
 #### Macro definition
