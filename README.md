@@ -71,7 +71,7 @@ int * ptr = NULL;
 
 ### Methods
 
-#### Call to a static mathod
+#### Call to a static method
 ```
 Utilities::date();
 ```
