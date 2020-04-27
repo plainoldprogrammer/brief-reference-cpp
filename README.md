@@ -92,5 +92,5 @@ public:
 
 #### Instantiate an object of a class
 ```
-    Point center;
+Point center;
 ```
