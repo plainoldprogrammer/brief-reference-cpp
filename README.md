@@ -69,6 +69,13 @@ int * ptrToInt = &x;
 int * ptr = NULL;
 ```
 
+### Functions
+
+#### Call to a function
+```
+doSomething();
+```
+
 ### Methods
 
 #### Call to a static method
