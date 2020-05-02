@@ -38,6 +38,11 @@
 #define PI 3.1416
 ```
 
+#### Define NULL
+```
+#define NULL 0
+```
+
 ### Namespaces
 
 #### Using a namespace
