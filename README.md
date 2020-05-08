@@ -59,6 +59,8 @@ float pi = 3.1416f;
 bool continue = true;
 ```
 
+### Pointers
+
 #### Pointer declaration
 ```
 int * ptrToInt;
