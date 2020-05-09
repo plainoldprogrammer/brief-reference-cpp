@@ -76,6 +76,12 @@ int * ptrToInt = &x;
 int * ptr = NULL;
 ```
 
+#### Assign a pointer to a pointer
+```
+int * add = &someVariable;
+int * ptr = add;
+```
+
 ### Functions
 
 #### Call to a function
