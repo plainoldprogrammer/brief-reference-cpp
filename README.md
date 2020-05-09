@@ -103,6 +103,15 @@ doSomething();
 
 ### Class member functions
 
+#### Declare a member function
+```
+class Cube
+{
+public:
+    int calculate_area();
+};
+```
+
 #### Call to a static member function
 ```
 Utilities::date();
