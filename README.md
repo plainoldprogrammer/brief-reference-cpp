@@ -101,9 +101,9 @@ void doSomething()
 doSomething();
 ```
 
-### Methods
+### Class member functions
 
-#### Call to a static method
+#### Call to a static member function
 ```
 Utilities::date();
 ```
