@@ -105,11 +105,19 @@ doSomething();
 
 #### Declare a member function
 ```
-class Cube
+class Rectangle
 {
 public:
-    int calculate_area();
+    int calculate_area(int, int);
 };
+```
+
+#### Define a member function
+```
+int Rectangle::calculate_area(int height, int width)
+{
+    return height * width;
+}
 ```
 
 #### Call to a static member function
