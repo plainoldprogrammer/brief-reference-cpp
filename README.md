@@ -132,6 +132,8 @@ Rectangle terrain;
 cout << terrain.calculate_area();
 ```
 
+### Class static member functions
+
 #### Declare a static member function
 ```
 class Person
