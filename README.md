@@ -84,6 +84,11 @@ int * ptr = add;
 
 ### Functions
 
+#### Declare a function
+```
+voidd doSomething();
+```
+
 #### Define a function
 ```
 void doSomething()
