@@ -82,6 +82,12 @@ int * add = &someVariable;
 int * ptr = add;
 ```
 
+#### Pointer to an object
+```
+Book book;
+Book * somebook = &book;
+```
+
 ### Functions
 
 #### Declare a function
