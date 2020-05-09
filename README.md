@@ -126,6 +126,12 @@ int Rectangle::calculate_area(int height, int width)
 }
 ```
 
+#### Call to a member function
+```
+Rectangle terrain;
+cout << terrain.calculate_area();
+```
+
 #### Call to a static member function
 ```
 Utilities::date();
