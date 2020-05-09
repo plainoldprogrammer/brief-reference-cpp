@@ -132,13 +132,21 @@ Rectangle terrain;
 cout << terrain.calculate_area();
 ```
 
-### Declare a static member function
+#### Declare a static member function
 ```
 class Person
 {
 public:
     static int get_max_id();
 };
+```
+
+#### Define a static member function
+```
+int Person::get_max_id()
+{
+    return id;
+}
 ```
 
 #### Call to a static member function
