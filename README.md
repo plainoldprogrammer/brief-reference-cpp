@@ -174,3 +174,8 @@ public:
 ```
 Point center;
 ```
+
+#### Instantiate an object of a class with specific values
+```
+Point center(0, 0);
+```
