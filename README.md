@@ -162,6 +162,7 @@ Utilities::date();
 ```
 class Point
 {
+protected:
 private:
     int x;
     int y;
