@@ -180,3 +180,8 @@ Point center;
 ```
 Point center(0, 0);
 ```
+
+#### Create a new object of a class in the heap
+```
+new Point();
+```
