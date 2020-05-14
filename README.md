@@ -97,7 +97,7 @@ Book * somebook = &book;
 
 #### Declare a function
 ```
-voidd doSomething();
+void doSomething();
 ```
 
 #### Define a function
