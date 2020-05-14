@@ -76,6 +76,11 @@ int * ptrToInt = &x;
 int * ptr = NULL;
 ```
 
+#### Delete and object
+```
+delete object;
+```
+
 #### Assign a pointer to a pointer
 ```
 int * add = &someVariable;
