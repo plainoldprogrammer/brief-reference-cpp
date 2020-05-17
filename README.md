@@ -7,9 +7,9 @@
 ### Comments
 
 #### One line comment
-``
+```
 // This is a simple comment.
-``
+```
 
 #### Multi line comment
 ```
@@ -65,11 +65,15 @@ bool continue = true;
 
 #### Define in an implementation file:
 
-```extern const float pi = 3.1416;```
+```
+extern const float pi = 3.1416;
+```
 
 #### Declare it when you want to use:
 
-```extern const float pi;```
+```
+extern const float pi;
+```
     
 ### Pointers
 
