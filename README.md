@@ -56,6 +56,8 @@ using namespace std;
 ```
 int x = 2020;
 float pi = 3.1416f;
+double pi = 3.414159;
+char letter = 'a';
 bool continue = true;
 ```
 
