@@ -204,7 +204,7 @@ Point center(0, 0);
 
 #### Create a new object of a class in the stack
 ```
-Point center();
+Point center;
 ```
 
 #### Create a new object of a class in the heap
