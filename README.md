@@ -211,3 +211,13 @@ Point center;
 ```
 new Point();
 ```
+
+### Headers
+
+#### Header Guards
+```
+#ifndef UNIQUE_CLASS_NAME
+#define UNIQUE_CLASS_NAME
+// declarations
+#endif
+```
