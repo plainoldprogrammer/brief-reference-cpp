@@ -50,6 +50,13 @@
 using namespace std;
 ```
 
+### Logical Operators
+```
+!    // Not
+&&   // And
+||   // Or
+```
+
 ### Variables
 
 #### Primitive data types declaration
