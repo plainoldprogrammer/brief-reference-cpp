@@ -50,7 +50,9 @@
 using namespace std;
 ```
 
-### Logical Operators
+### Operators
+
+#### Logical Operators
 ```
 !    // Not
 &&   // And
