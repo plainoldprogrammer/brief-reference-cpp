@@ -201,6 +201,13 @@ public:
 };
 ```
 
+#### Class inheritance
+```
+class Pixel : Point
+{
+};
+```
+
 #### Instantiate an object of a class
 ```
 Point center;
