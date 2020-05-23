@@ -228,6 +228,12 @@ Point center;
 new Point();
 ```
 
+#### Delete an object created with new
+```
+Point *ptrPoint = new Point();
+delete ptrPoint;
+```
+
 ### Headers
 
 #### Header Guards
