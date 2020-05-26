@@ -112,6 +112,11 @@ int * add = &someVariable;
 int * ptr = add;
 ```
 
+#### Declare a pointer to pointer to pointer
+```
+int ***ptr;
+```
+
 #### Pointer to an object
 ```
 Book book;
