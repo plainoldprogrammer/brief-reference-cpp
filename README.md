@@ -106,13 +106,6 @@ int * ptr = NULL;
 delete object;
 ```
 
-### Strings
-
-#### Null character value
-```
-'\0'
-```
-
 #### Assign a pointer to a pointer
 ```
 int * add = &someVariable;
@@ -128,6 +121,13 @@ int ***ptr;
 ```
 Book book;
 Book * somebook = &book;
+```
+
+### Strings
+
+#### Null character value
+```
+'\0'
 ```
 
 ### Functions
