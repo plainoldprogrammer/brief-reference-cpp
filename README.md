@@ -135,6 +135,11 @@ Book * somebook = &book;
 string quote("The energy of the mind is the essence of life");
 ```
 
+#### Declare a string and then assign a value
+```
+string quote = "The energy of the mind is the essence of life";
+```
+
 ### Functions
 
 #### Declare a function
