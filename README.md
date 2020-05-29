@@ -130,6 +130,11 @@ Book * somebook = &book;
 '\0'
 ```
 
+#### Declare a string with initial value in the constructor
+```
+string quote("The energy of the mind is the essence of life");
+```
+
 ### Functions
 
 #### Declare a function
