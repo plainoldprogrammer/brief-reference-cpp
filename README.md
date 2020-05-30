@@ -50,6 +50,11 @@
 using namespace std;
 ```
 
+#### Refer to an object in a namespace
+```
+    std::cout << "";
+```
+
 ### Operators
 
 #### Logical Operators
