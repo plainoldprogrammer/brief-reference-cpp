@@ -52,7 +52,7 @@ using namespace std;
 
 #### Refer to an object in a namespace
 ```
-    std::cout << "";
+std::cout << "";
 ```
 
 ### Operators
