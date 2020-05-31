@@ -213,6 +213,17 @@ int Person::get_max_id()
 Utilities::date();
 ```
 
+### Structs
+
+#### Struct definition
+```
+struct Person {
+    string name;
+    int age;
+};
+
+```
+
 ### Classes
 
 #### Class definition
